@@ -1,0 +1,7 @@
+Stest XN16_000 12304567890123 煲汁饭 尖椒肉丝饭 12 food spicy no 400
+Stest XN16_000 12304567890123 煲汁饭 黄焖鸡米饭 14 food fresh no 400
+Stest XN16_000 12304567890123 煲汁饭 尖椒肉丝饭 12 food spicy no 400
+SStest XN17_999 1230456789123 煲汁饭 鸡腿饭 10 food fresh no 380
+SStest XN17_999 1230456789123 煲汁饭 尖椒肉丝饭 12 food spicy no 400
+Ttest 二教_202 1470258369147 煲汁饭 巴西烤肉拌饭 13 food spicy no 400
+Ttest 二教_202 1470258369147 谷物渔粉 番茄鱼丸鱼粉 10 food 400 fresh no

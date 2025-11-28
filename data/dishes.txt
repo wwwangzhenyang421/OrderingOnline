@@ -1,0 +1,15 @@
+麻辣烫 malahotpot 15 food spicy no 200
+谷物渔粉 番茄酥肉鱼粉 15 food spicy no 500
+谷物渔粉 番茄牛肉鱼粉 16 food fresh no 455
+煲汁饭 黄焖鸡米饭 14 food fresh no 400
+煲汁饭 土豆烧鸡饭 13 food fresh no 400
+煲汁饭 香菇烧鸡饭 13 food fresh no 400
+煲汁饭 甜椒肉丝饭 13 food spicy no 450
+煲汁饭 尖椒肉丝饭 12 food spicy no 400
+煲汁饭 海苔烧鸡饭 13 food fresh no 420
+煲汁饭 巴西烤肉拌饭 13 food spicy no 400
+煲汁饭 照烧鸡排饭 12 food fresh no 400
+谷物渔粉 番茄鱼丸鱼粉 10 food fresh no 400
+谷物渔粉 藤椒牛肉鱼粉 18 food spicy no 450
+谷物渔粉 藤椒鸡肉鱼粉 13 food 430 spicy no
+煲汁饭 番茄牛丸鱼粉 12 food fresh no 420
